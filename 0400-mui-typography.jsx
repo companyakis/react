@@ -12,7 +12,7 @@ function Typo() {
       <Typography variant="h1" align='center'>Mustafa Büyükdereli 2024</Typography>
 
       <Typography variant="body1">Mustafa Büyükdereli 2024</Typography>
-      <Typography variant="body1">Mustafa Büyükdereli 2024</Typography>
+      <Typography variant="body2">Mustafa Büyükdereli 2024</Typography>
 
       <Typography variant="subtitle1">Mustafa Büyükdereli 2024</Typography>
       <Typography variant="subtitle2">Mustafa Büyükdereli 2024</Typography>
