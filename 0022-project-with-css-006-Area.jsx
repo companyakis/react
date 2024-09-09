@@ -1,22 +1,16 @@
-import "./App.css";
-import Area from "./Area";
-import Header from "./Header";
-import {areas} from "./data"
+import React from 'react'
 
+function Area({area}) {
 
-function App() {
+  const {id, title, desc, pic} = area
+    
   return (
-    <>
-      <Header />
-      
-      {
-        areas?.map((area) => (
-          <Area key={area.id} area={area} />
-        ))
-      }
-
-    </>
-  );
+    <div>
+      <img src={pic} alt="lorem ipsum" />
+      <h3>{title}</h3>
+      <h4>{desc}</h4>
+    </div>
+  )
 }
 
-export default App;
+export default Area
