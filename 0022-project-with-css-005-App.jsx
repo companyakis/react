@@ -11,7 +11,7 @@ function App() {
       
       {
         areas?.map((area) => (
-          <Area key={area.id} />
+          <Area key={area.id} area={area} />
         ))
       }
 
