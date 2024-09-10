@@ -1,0 +1,16 @@
+{
+    "managers" : [
+        {
+            "id": 100,
+            "username": "ceo.mustafa",
+            "password" : "Qwer1234"
+        },
+
+        {
+
+            "id": 109,
+            "username": "sales.aygun",
+            "password": "Abcd1234"
+        }
+    ]
+}
