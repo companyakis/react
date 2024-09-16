@@ -1,0 +1,17 @@
+.flexbox-container {
+
+    display: flex;
+    flex-direction: row; /*row is default!*/
+    flex-wrap: wrap-reverse;
+}
+
+.flexbox-container > div {
+
+    width: 80px;
+    height: 70px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    text-align: center;
+    margin: 5px;
+    padding-top: 10px;
+}
