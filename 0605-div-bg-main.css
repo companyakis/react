@@ -1,0 +1,25 @@
+.box1 {
+  background-color: darkcyan;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  color: blanchedalmond;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding-top: 5px;
+}
+
+.box2 {
+  width: 400px;
+  height: 400px;
+  background-image: url(/ways.jpg);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+}
+
+.txt1 {
+  padding-top: 6px;
+}
