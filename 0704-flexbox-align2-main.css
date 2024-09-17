@@ -1,0 +1,21 @@
+.flexbox-container {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(173, 233, 235);
+    height: 600px;
+    justify-content: space-evenly;
+    align-items: flex-start;
+
+}
+
+.flexbox-container > div {
+
+    width: 80px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}
