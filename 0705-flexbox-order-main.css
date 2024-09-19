@@ -1,0 +1,32 @@
+.flexbox-container {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(173, 233, 235);
+    height: 300px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.flexbox-container > div {
+
+    width: 80px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}
+
+.b-1 { order: 4;}
+
+.b-2 {order: 6;}
+
+.b-3 {order: 1;}
+
+.b-4 {order: 4;}
+
+.b-5 {order: 2;}
+
+.b-6 {order: 3;}
