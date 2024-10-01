@@ -1,0 +1,23 @@
+.div-1 {
+  width: 600px;
+  height: 200px;
+  background-color: black;
+  margin: 40px 80px;
+}
+
+.div-2 {
+  width: 600px;
+  height: 100px;
+  background-color: blue;
+  margin: 10px 15px 80px 45px;
+}
+
+.div-3 {
+  width: 600px;
+  height: 150px;
+  background-color: green;
+  margin-top: 15px;
+  margin-bottom: 45px;
+  margin-right: 65px;
+  margin-left: 27px;
+}
