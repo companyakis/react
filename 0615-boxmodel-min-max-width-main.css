@@ -1,0 +1,19 @@
+.div1 {
+
+  width: 500px;
+  height: 300px;
+  background-color: blue;
+  min-width: 250px;
+
+}
+
+.div2 {
+
+  width: 600px;
+  height: 250px;
+  background-color: green;
+  margin-top: 30px;
+  min-width: 400px;
+
+}
+
