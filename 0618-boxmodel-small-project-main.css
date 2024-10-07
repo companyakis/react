@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(188, 204, 237);
+}
+
+.container {
+  width: 800px;
+  margin: 150px auto;
+  padding: 25px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.container h1 {
+  text-transform: uppercase;
+  color: rgb(150, 150, 192);
+}
+
+.container h2 {
+  color: rgb(77, 77, 158);
+}
+
+.container p{
+  font-size: 25px;
+}
+
+.container button {
+  padding: 15px 20px;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 15px;
+  background-color: rgb(130, 195, 130);
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.container button:hover {
+  cursor: pointer;
+}
