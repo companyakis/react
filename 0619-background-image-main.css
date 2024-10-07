@@ -1,0 +1,19 @@
+#div1 {
+  width: 500px;
+  height: 400px;
+  margin-bottom: 30px;
+  background-image: url("https://images.unsplash.com/photo-1710609942195-b9dab8f48fc6?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+#div2 {
+  width: 500px;
+  height: 600px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-image: url("https://images.unsplash.com/photo-1651322408059-c898b35b9a14?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
