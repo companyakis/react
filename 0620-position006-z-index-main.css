@@ -1,0 +1,24 @@
+#div1 {
+  width: 90%;
+  height: 200px;
+  background-color: burlywood;
+  position: relative;
+  margin-bottom: 30px;
+
+}
+
+#div2 {
+  width: 75%;
+  height: 300px;
+  background-color: darkgray;
+  position: relative;
+  top: -85px;
+  left: 40px;
+  /* bottom: ;
+  right: ; */
+  z-index: -1;
+ 
+}
+
+/* z index default value 0 
+if z1 > z2 => number 1 is stronger */
