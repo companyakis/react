@@ -5,9 +5,9 @@ function Header() {
   return (
     <div>
       <div className='header'>
-        <Link>Main Page</Link>
-        <Link>Products</Link>
-        <Link>About</Link>
+        <Link className='header-link'>Main Page</Link>
+        <Link className='header-link'>Products</Link>
+        <Link className='header-link'>About</Link>
       </div>
     </div>
   )
