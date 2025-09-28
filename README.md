@@ -1,2 +1,2 @@
-# React, TypeScript, MUI and CSS
+# Some React and Design
 
